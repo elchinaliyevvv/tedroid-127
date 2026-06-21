@@ -1,0 +1,14 @@
+body {
+  font-family: "Inter", sans-serif;
+  line-height: 1.4;
+}
+
+.h3 {
+    transition: 0.3s;
+}
+
+.h3:hover {
+    color: #306ea4 !important;
+    cursor: pointer;
+    transition: 0.3s;
+}
